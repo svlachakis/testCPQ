@@ -1,4 +1,2 @@
 "Guid","ConsumptionScheduleId","Description","LowerBound","Price","PricingMethod","ProcessingOrder","UpperBound"
-27f2bf78-04c8-4a91-a07c-816ba3b89c8f,5aaaeecf-4960-4467-9134-f95c052abc1d,"#N/A",1,1.0,PerUnit,1,2
-d30b99b3-edb7-4967-8161-76f01f0ef08f,94ca5d94-794c-427c-b3e1-8aa6da03ab43,"#N/A",1,1.0,PerUnit,1,2
 ea35ef4c-2b77-46a7-8c95-e469ce212c39,5aaaeecf-4960-4467-9134-f95c052abc1d,"#N/A",1,1.0,PerUnit,1,2

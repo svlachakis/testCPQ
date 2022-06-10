@@ -1,4 +1,2 @@
 "Guid","BillingTerm","BillingTermUnit","Description","IsActive","MatchingAttribute","Name","RatingMethod","SBQQ__Category__c","Type","UnitOfMeasure"
 5aaaeecf-4960-4467-9134-f95c052abc1d,1,Year,"#N/A",true,"#N/A",testSvlachakis,Tier,Rates,Range,"#N/A"
-5bad0504-0855-480e-807d-8b7a3459f4aa,1,Year,"#N/A",true,"#N/A",testSvlachakis,Tier,Rates,Range,"#N/A"
-94ca5d94-794c-427c-b3e1-8aa6da03ab43,1,Year,"#N/A",true,"#N/A",testSvlachakis,Tier,Rates,Range,"#N/A"
